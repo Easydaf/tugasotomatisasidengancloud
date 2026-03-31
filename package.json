@@ -1,0 +1,17 @@
+{
+  "name": "halo-button-app",
+  "version": "1.0.0",
+  "description": "Aplikasi sederhana dengan tombol interaktif yang menampilkan 'Halo' dengan animasi",
+  "main": "Index.html",
+  "scripts": {
+    "start": "npx http-server .",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": [
+    "button",
+    "interactive",
+    "animation"
+  ],
+  "author": "",
+  "license": "MIT"
+}
